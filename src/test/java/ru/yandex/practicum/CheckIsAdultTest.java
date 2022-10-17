@@ -1,8 +1,9 @@
-// Напиши аннотацию для параметризованных тестов
+package ru.yandex.practicum;// Напиши аннотацию для параметризованных тестов
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+import ru.yandex.practicum.Program;
 
 import static org.junit.Assert.assertEquals;
 
